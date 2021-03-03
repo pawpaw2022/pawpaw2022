@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at... University of San Diego
+- 🏫 I’m currently studying at... University of San Diego
 - 🌱 I’m currently learning... Python
 - 👯 I’m looking to collaborate on... Machine Learning Projects
 - 🤔 I’m looking for help with... a referral to big tech corporation
