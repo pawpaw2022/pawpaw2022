@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to cook, because I am a chef :) 
 - ⚡ Fun fact: I am either the best cook who codes or the best coder who cooks. 
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
