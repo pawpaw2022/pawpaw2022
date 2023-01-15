@@ -15,13 +15,10 @@ I've completed some projects in recent years, and I am looking forward to buildi
 
 ---
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pawpaw2022&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko" />  -->
-
 ![Paul's GitHub stats](https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&hide=jupyter%20notebook&layout=compact&theme=merko)](https://github.com/pawpaw2022/pawpaw2022) -->
 
 [![paul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
 
