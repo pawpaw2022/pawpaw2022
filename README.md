@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-lu-8a438820a) [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-wheat-ten-80.vercel.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/paul.lu.752861/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawpaw2022) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.l.sining@gmail.com?subject=Request%20to%20%3CYour%20Purpose%3E&body=Hello%20Paul%2C%20%0A%0A%3CYour%20Request..%3E%0A)
 
----
-## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="40" height="40" /> &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pawpaw2022.pawpaw2022)
+
+## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pawpaw2022.pawpaw2022)
 
 I'm a full-stack software developer. I love making websites, learning new technologies and cooking. 
 
@@ -13,12 +13,13 @@ Though I am pursuing my computer science and mathematics degree in the beautiful
 
 I've completed some projects in recent years, and I am looking forward to building more as I am learning new technologies in the future. 
 
----
+## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+<p>
 
-![Paul's GitHub stats](https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Paul's GitHub stats](https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![Top Langs](https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact)
 
-![Top Langs](https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact)
+</p>
 
+[![paul's wakatime stats](https://github-readme-stats-two-gray.vercel.app/api/wakatime?username=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
 
-[![paul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
-
+[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
