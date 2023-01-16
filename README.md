@@ -34,19 +34,15 @@ Though I am pursuing my computer science and mathematics degree in the beautiful
 <p>
 I've completed some projects in recent years, and I am looking forward to building more as I am learning new technologies in the future.
 </p>
+
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 
 <span>
-<img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats">
-
-<img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs">
 </span>
 
-[![paul's wakatime stats](https://github-readme-stats-two-gray.vercel.app/api/wakatime?username=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
 
-[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
+## This Week I Spent My Time On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
 <!--START_SECTION:waka-->
 
 ```text
@@ -56,3 +52,17 @@ Markdown     0 secs          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+## Checkout My Recent Project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" alt="Confetti Ball" width="40" height="40" />
+
+[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
+
+[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Portfolio)](https://github.com/pawpaw2022/Portfolio)
+
+[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Netflix-Clone)](https://github.com/pawpaw2022/Netflix-Clone)
+
+[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=vidly-express)](https://github.com/pawpaw2022/vidly-express)
+
+
+
