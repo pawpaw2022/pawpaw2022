@@ -48,4 +48,11 @@ I've completed some projects in recent years, and I am looking forward to buildi
 
 
 <!--START_SECTION:waka-->
+
+```text
+Text         7 mins          ████████████████████░░░░░   80.36 %
+JavaScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+```
+
 <!--END_SECTION:waka-->
