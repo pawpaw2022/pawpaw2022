@@ -64,9 +64,13 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-![Metrics](/metrics.plugin.achievements.compact.svg)
+
+<picture>
+    <img align="center" src="/github-metrics.svg" alt="Metrics">
+    <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
+    <img align="center" src="/metrics.plugin.achievements.compact.svg" alt="Achievements Metrics">
+</picture>
+
 
 
 <div style="display: flex; justify-content: space-between">
