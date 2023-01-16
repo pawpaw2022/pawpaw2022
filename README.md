@@ -129,3 +129,6 @@ XML          1 min           -------------------------   00.12 %
 - [Follow me on GitHub](https://github.com/pawpaw2022)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" /><br/>
 - [Checkout my portfolio](https://portfolio-wheat-ten-80.vercel.app/)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /><br/>
 - [Buy me a coffee](https://www.buymeacoffee.com/pawpaw2022) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /> (Cheers~)
+
+![Metrics](/github-metrics.svg)
+
