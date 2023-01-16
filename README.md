@@ -65,7 +65,7 @@ In recent years, I've been learning new technologies and languages. These are th
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 
 <span>
-<img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats" width="450"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs" width="350">
 </span>
 
 ## This week I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
