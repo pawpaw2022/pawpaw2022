@@ -68,7 +68,7 @@ In recent years, I've been learning new technologies and languages. These are th
 <img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats" width="450"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs" width="350">
 </div>
 
-## This week I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
+## Where I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
 
 <!--START_SECTION:waka-->
 
