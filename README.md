@@ -64,10 +64,10 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 
-<picture>
+<picture style="text-align: center;">
     <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-<picture>
+<picture style="text-align: center;">
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
 </picture>
 
