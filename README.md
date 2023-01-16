@@ -73,10 +73,16 @@ In recent years, I've been learning new technologies and languages. These are th
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 hrs 11 mins   ████████████████████████░   95.62 %
-Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+From: 30 December 2022 - To: 15 January 2023
+
+Total Time: 11 hrs 34 mins
+
+JavaScript   10 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.24 %
+JSON         26 mins         >------------------------   03.77 %
+Git Config   10 mins         -------------------------   01.52 %
+Text         7 mins          -------------------------   01.09 %
+XML          1 min           -------------------------   00.16 %
+Other        1 min           -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
