@@ -86,7 +86,7 @@ In recent years, I've been learning new technologies and languages. These are th
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 17 January 2023
+From: 30 December 2022 - To: 18 January 2023
 
 Total Time: 16 hrs 29 mins
 
