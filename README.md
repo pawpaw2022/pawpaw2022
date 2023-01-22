@@ -41,9 +41,20 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Intermediate" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anxious%20Face%20with%20Sweat.png" alt="Beginner" width="25" height="25" /> -->
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 
-In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
+### I know: 
+
+![python]](/assets/python.svg)
+          
+
+### I am learning: 
+
+
+### I am about to learn: 
+
 
 |                                                                                **#**                                                                                |   **Language**    |                                                                                     **Proficiency**                                                                                     |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
