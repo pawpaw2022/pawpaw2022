@@ -47,8 +47,9 @@ I've completed some projects in recent years, and I am looking forward to buildi
 
 ### I know: 
 
-![python]](/assets/python.svg)
-          
+<!-- ![python]](/assets/python.svg) -->
+<img src="/assets/python.svg">
+
 
 ### I am learning: 
 
