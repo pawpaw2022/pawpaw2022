@@ -146,12 +146,12 @@ Text         7 mins          -------------------------   00.72 %
 <a>
 </span>
 
-## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="35" height="35" />
+<!-- ## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="35" height="35" />
 
 - Hooping <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Bouncing%20Ball.png" alt="Person Bouncing Ball" width="30" height="30" />
 - Cooking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cook.png" alt="Man Cook" width="30" height="30" />
 - Surfing in summer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Surfing.png" alt="Person Surfing" width="30" height="30" />
-- Snowboarding in winter <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Snowboarder.png" alt="Snowboarder" width="30" height="30" />
+- Snowboarding in winter <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Snowboarder.png" alt="Snowboarder" width="30" height="30" /> -->
 
 ## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
 
