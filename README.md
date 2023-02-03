@@ -25,15 +25,12 @@
 
 ## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pawpaw2022.pawpaw2022)
 
-<p>
-I'm a full-stack software developer. I love making websites, learning new technologies and cooking.
-</p>
-<p>
-Though I am pursuing my computer science and mathematics degree in the beautiful city of San Diego, I consider myself a self-taught programmer. Throughout the past 3 years, I have been constantly striving to learn programming skills. I never get bored of programming in a single day as I trully believe passion leads to consistancy, and consistancy drives to success. If I can do it, so can you!
-</p>
-<p>
-I've completed some projects in recent years, and I am looking forward to building more as I am learning new technologies in the future.
-</p>
+I'm a full-stack software developer. I love making websites, learning new technologies, and cooking.
+
+Though I am pursuing my computer science and mathematics degree in the beautiful city of San Diego, I consider myself a self-taught programmer. Throughout the past 3 years, I have been constantly striving to learn programming skills. I never get bored of programming in a single day as I truly believe passion leads to consistency, and consistency drives to success. If I can do it, so can you!
+
+I've completed some projects in recent years, and I am looking forward to building more as I learn new technologies.
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
