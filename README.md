@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Aloha, I'm <a href="https://portfolio-wheat-ten-80.vercel.app" target="_blank">Paul Lu</a> <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="40">
+# Aloha, I'm <a href="https://portfolio-wheat-ten-80.vercel.app" target="_blank">Paul Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 <span>
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">    
