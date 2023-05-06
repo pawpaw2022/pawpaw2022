@@ -114,7 +114,7 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 03 May 2023
+From: 30 December 2022 - To: 04 May 2023
 
 Total Time: 125 hrs 1 min
 
@@ -123,7 +123,6 @@ TypeScript   22 hrs 11 mins  >>>>---------------------   17.74 %
 Markdown     7 hrs 40 mins   >>-----------------------   06.13 %
 EJS          5 hrs 52 mins   >------------------------   04.70 %
 SCSS         5 hrs 28 mins   >------------------------   04.38 %
-CSS          3 hrs 15 mins   >------------------------   02.60 %
 ```
 
 <!--END_SECTION:waka-->
