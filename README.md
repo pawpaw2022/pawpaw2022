@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">    
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 <a>
-<a href="https://portfolio-wheat-ten-80.vercel.app/"  target="_blank">    
+<a href="https://medium.com/@fullstackwithpaul"  target="_blank">    
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" height="25">
 <a>
 <a href="https://www.facebook.com/paul.lu.752861/"  target="_blank">    
@@ -15,7 +15,7 @@
 <a href="https://github.com/pawpaw2022"  target="_blank">    
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="25">
 <a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"  target="_blank">    
+<a href="https://twitter.com/fullstackwpaul"  target="_blank">    
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" width="90">
 <a>
 <a href="mailto:paul.l.sining@gmail.com?subject=Request%20to%20%3CYour%20Purpose%3Ebody=Hello%20Paul%2C%20%0A%0A%3CYour%20Request..%3E%0A"  target="_blank">    
@@ -124,8 +124,9 @@ EJS          5 hrs 52 mins   >------------------------   02.28 %
 <a href="https://github.com/pawpaw2022/pokedex"  target="_blank">    
     <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pokedex" alt="pokedex" height="120">
 <a>
-<a href="https://github.com/pawpaw2022/gql-blogging-website"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website" alt="gql-blogging-website" height="120">
+
+<a href="https://github.com/pawpaw2022/Netflix-Clone"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Netflix-Clone" alt="Netflix-Clone" height="120">
 <a>
 </span>
 
@@ -133,9 +134,10 @@ EJS          5 hrs 52 mins   >------------------------   02.28 %
 <a href="https://github.com/pawpaw2022/gql-blogging-website-client"  target="_blank">    
     <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website-client" alt="gql-blogging-website-client" height="120">
 <a>
-<a href="https://github.com/pawpaw2022/simplebank"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=simplebank" alt="simplebank" height="120">
+<a href="https://github.com/pawpaw2022/gql-blogging-website"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website" alt="gql-blogging-website" height="120">
 <a>
+
 </span>
 
 ## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
