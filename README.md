@@ -23,7 +23,7 @@
 <a>
 </span>
 
-## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pawpaw2022.pawpaw2022)
+## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &nbsp; ![visitor badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpawpaw20221212%2Fhit-counter)
 
 I'm a full-stack software developer. I love making websites, learning new technologies, and cooking.
 
@@ -31,12 +31,9 @@ Though I am pursuing my computer science and mathematics degree in the beautiful
 
 I've completed some projects in recent years, and I am looking forward to building more as I learn new technologies.
 
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
-
-### I know:
+## Tech Stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 
 <div>
     
@@ -62,19 +59,9 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" />
 
-</div>
-
-### I am learning:
-
-<div>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" />
-</div>
 
-### I am about to learn:
-
-<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" />
@@ -83,16 +70,6 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="25" />
-</div>
-
-### What are trending in 2023:
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="25" />
-    <img src="https://seeklogo.com/images/S/solid-logo-D8251004BE-seeklogo.com.jpg" height="25" />
-    <img src="https://astro.build/assets/press/logomark-light.svg" height="25" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="25" />
 </div>
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
@@ -105,9 +82,15 @@ I've completed some projects in recent years, and I am looking forward to buildi
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
 </picture>
 
-<div style="display: flex; justify-content: space-between">
-<img src="https://github-readme-stats-two-gray.vercel.app/api?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Paul's GitHub stats" width="450"> <img src="https://github-readme-stats-two-gray.vercel.app/api/top-langs/?username=pawpaw2022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook&layout=compact" alt="Top Langs" width="350">
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave
+">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave
+">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact
+">
 
 ## Where I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
 
@@ -127,7 +110,7 @@ EJS          5 hrs 52 mins   >------------------------   02.28 %
 
 <!--END_SECTION:waka-->
 
-## Checkout my recent projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" />
+## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" />
 
 <!-- [![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
 
@@ -138,29 +121,22 @@ EJS          5 hrs 52 mins   >------------------------   02.28 %
 [![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=vidly-express)](https://github.com/pawpaw2022/vidly-express) -->
 
 <span>
-<a href="https://github.com/pawpaw2022/Portfolio"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Portfolio" alt="portfolio" height="120">
+<a href="https://github.com/pawpaw2022/pokedex"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pokedex" alt="pokedex" height="120">
 <a>
-<a href="https://github.com/pawpaw2022/pawpaw2022"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pawpaw2022" alt="read me card" height="120">
+<a href="https://github.com/pawpaw2022/gql-blogging-website"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website" alt="gql-blogging-website" height="120">
 <a>
 </span>
 
 <span>
-<a href="https://github.com/pawpaw2022/Netflix-Clone"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Netflix-Clone" alt="netflix clone" height="120">
+<a href="https://github.com/pawpaw2022/gql-blogging-website-client"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website-client" alt="gql-blogging-website-client" height="120">
 <a>
-<a href="https://github.com/pawpaw2022/vidly-express"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=vidly-express" alt="express vidly" height="120">
+<a href="https://github.com/pawpaw2022/simplebank"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=simplebank" alt="simplebank" height="120">
 <a>
 </span>
-
-<!-- ## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="35" height="35" />
-
-- Hooping <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Bouncing%20Ball.png" alt="Person Bouncing Ball" width="30" height="30" />
-- Cooking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cook.png" alt="Man Cook" width="30" height="30" />
-- Surfing in summer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Surfing.png" alt="Person Surfing" width="30" height="30" />
-- Snowboarding in winter <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Snowboarder.png" alt="Snowboarder" width="30" height="30" /> -->
 
 ## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
 
