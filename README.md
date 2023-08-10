@@ -82,10 +82,14 @@ I've completed some projects in recent years, and I am looking forward to buildi
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
 </picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave">
-<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact">
+<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave" />
+
+
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact" />
 
 ## Where I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
 
@@ -135,11 +139,11 @@ EJS          5 hrs 52 mins   >------------------------   02.28 %
 
 </span>
 
-## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
+<!-- ## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
 
 - [Give a star to this project](https://github.com/pawpaw2022/pawpaw2022)&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /><br/>
 - [Follow me on GitHub](https://github.com/pawpaw2022)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" /><br/>
 - [Checkout my portfolio](https://portfolio-wheat-ten-80.vercel.app/)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /><br/>
 - [Buy me a coffee](https://www.buymeacoffee.com/pawpaw2022) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /> (Cheers~)
 
-<img src="https://wallpapers.com/images/hd/splatoon-2-octopia-splatfest-oxoauq7ielekerov.webp" alt="wallpaper">
+<img src="https://wallpapers.com/images/hd/splatoon-2-octopia-splatfest-oxoauq7ielekerov.webp" alt="wallpaper"> -->
