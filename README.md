@@ -83,14 +83,9 @@ I've completed some projects in recent years, and I am looking forward to buildi
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave
-">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave
-">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact
-">
+<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact">
 
 ## Where I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
 
