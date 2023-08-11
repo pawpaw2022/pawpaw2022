@@ -74,6 +74,8 @@ I've completed some projects in recent years, and I am looking forward to buildi
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave" />
+
 <picture>
     <img src="/github-metrics.svg" alt="Metrics">
 </picture>
@@ -81,8 +83,6 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <picture>
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
 </picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave" />
 
