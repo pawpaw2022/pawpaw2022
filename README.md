@@ -63,11 +63,11 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="25" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="25" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="25" />
 </div>
@@ -85,7 +85,6 @@ I've completed some projects in recent years, and I am looking forward to buildi
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave" />
-
 
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave" />
 
@@ -124,8 +123,8 @@ EJS              5 hrs 52 mins   >------------------------   02.06 %
     <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pokedex" alt="pokedex" height="120">
 <a>
 
-<a href="https://github.com/pawpaw2022/Netflix-Clone"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Netflix-Clone" alt="Netflix-Clone" height="120">
+<a href="https://github.com/pawpaw2022/simplebank"  target="_blank">    
+    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=simplebank" alt="simplebank" height="120">
 <a>
 </span>
 
