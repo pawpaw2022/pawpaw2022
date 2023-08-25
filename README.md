@@ -4,7 +4,7 @@
 
 <span>
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">    
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
+    <img src="https://img.shields.io/badge/LinkedIn-0077Bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 <a>
 <a href="https://www.pawpaw2022.com/"  target="_blank">    
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" height="25">
@@ -95,15 +95,15 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2022 - To: 23 August 2023
+From: 30 December 2022 - To: 22 August 2023
 
-Total Time: 287 hrs 34 mins
+Total Time: 285 hrs 44 mins
 
-TypeScript       133 hrs 47 mins >>>>>>>>>>>>-------------   46.52 %
-JavaScript       70 hrs 54 mins  >>>>>>-------------------   24.65 %
-Go               27 hrs 54 mins  >>-----------------------   09.71 %
-Markdown         9 hrs 19 mins   >------------------------   03.24 %
-YAML             6 hrs 6 mins    >------------------------   02.12 %
+TypeScript       133 hrs 47 mins >>>>>>>>>>>>-------------   46.82 %
+JavaScript       70 hrs 54 mins  >>>>>>-------------------   24.81 %
+Go               27 hrs 54 mins  >>-----------------------   09.77 %
+Markdown         9 hrs 19 mins   >------------------------   03.26 %
+EJS              5 hrs 52 mins   >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
