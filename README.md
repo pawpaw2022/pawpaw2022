@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">    
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 <a>
-<a href="https://medium.com/@fullstackwithpaul"  target="_blank">    
+<a href="https://www.pawpaw2022.com/"  target="_blank">    
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" height="25">
 <a>
 <a href="https://www.facebook.com/paul.lu.752861/"  target="_blank">    
