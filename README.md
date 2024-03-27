@@ -1,24 +1,25 @@
 <!-- @format -->
 
-# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Paul Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Paul Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;<span><span><img src="https://64.media.tumblr.com/1e2a6b5e1b376387c2de9a9f93e6f964/tumblr_ps864g3Ziy1uhjj9qo1_640.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+
 <span>
-<a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">    
-    <img src="https://img.shields.io/badge/LinkedIn-0077Bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
+<a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">  
+ <img src="https://img.shields.io/badge/LinkedIn-0077Bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 <a>
-<a href="https://www.pawpaw2022.com/"  target="_blank">    
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" height="25">
+<a href="https://www.pawpaw2022.com/"  target="_blank">  
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" height="25">
 <a>
-<a href="https://www.facebook.com/paul.lu.752861/"  target="_blank">    
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="25">
+<a href="https://www.facebook.com/paul.lu.752861/"  target="_blank">  
+ <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="25">
 <a>
-<a href="https://github.com/pawpaw2022"  target="_blank">    
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="25">
+<a href="https://github.com/pawpaw2022"  target="_blank">  
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="25">
 <a>
-<a href="https://twitter.com/fullstackwpaul"  target="_blank">    
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" width="90">
+<a href="https://twitter.com/fullstackwpaul"  target="_blank">  
+ <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" width="90">
 <a>
-<a href="mailto:paul.l.sining@gmail.com?subject=Request%20to%20%3CYour%20Purpose%3Ebody=Hello%20Paul%2C%20%0A%0A%3CYour%20Request..%3E%0A"  target="_blank">    
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25">
+<a href="mailto:paul.l.sining@gmail.com?subject=Request%20to%20%3CYour%20Purpose%3Ebody=Hello%20Paul%2C%20%0A%0A%3CYour%20Request..%3E%0A"  target="_blank">  
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25">
 <a>
 </span>
 
