@@ -1,6 +1,7 @@
 <!-- @format -->
 
-# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Paul Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;<span><span><img src="https://64.media.tumblr.com/1e2a6b5e1b376387c2de9a9f93e6f964/tumblr_ps864g3Ziy1uhjj9qo1_640.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Paul Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+
 
 <span>
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">  
