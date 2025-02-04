@@ -97,7 +97,7 @@ I've completed some projects in recent years, and I am looking forward to buildi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2022 - To: 01 February 2025
+From: 30 December 2022 - To: 02 February 2025
 
 Total Time: 599 hrs 39 mins
 
