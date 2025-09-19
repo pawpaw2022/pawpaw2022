@@ -72,7 +72,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave" />
 
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave" />
+<!-- <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact" />
 
