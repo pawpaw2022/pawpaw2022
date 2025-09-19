@@ -1,16 +1,20 @@
 <!--  @format -->
 
-# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/>&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
 
 
-<span>
+
+<!-- <span>
 <a href="https://linkedin.com/in/paul-lu-8a438820a"  target="_blank">  
  <img src="https://img.shields.io/badge/LinkedIn-0077Bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 <a>
 <a href="mailto:paul.l.sining@gmail.com?subject=Request%20to%20%3CYour%20Purpose%3Ebody=Hello%20Paul%2C%20%0A%0A%3CYour%20Request..%3E%0A"  target="_blank">  
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25">
 <a>
-</span>
+</span> -->
+
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="animated hello">
 
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -38,7 +42,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" /> &nbsp; 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+## Glad to have you here!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="24" /> &nbsp; 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -46,11 +55,14 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=pawpaw2022&theme=synthwave" />
 
-## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+## GitHub Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" alt="Bar Chart" width="24" />
 
-<picture>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%">
+ -->
+
+<!-- <picture>
     <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</picture> -->
 
 <picture>
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
@@ -62,7 +74,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact" />
 
-## Where I spent my time on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="35" height="35" />
+## Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+
+## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Flexed Biceps" width="24" />
 
 <!--START_SECTION:waka-->
 
@@ -80,41 +96,3 @@ Markdown                   40 hrs 23 mins  >------------------------   04.35 %
 
 <!--END_SECTION:waka-->
 
-## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" />
-
-<!-- [![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pawpaw2022)](https://github.com/pawpaw2022/pawpaw2022)
-
-[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Portfolio)](https://github.com/pawpaw2022/Portfolio)
-
-[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=Netflix-Clone)](https://github.com/pawpaw2022/Netflix-Clone)
-
-[![Readme Card](https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=vidly-express)](https://github.com/pawpaw2022/vidly-express) -->
-
-<span>
-<a href="https://github.com/pawpaw2022/pokedex"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=pokedex" alt="pokedex" height="120">
-<a>
-
-<a href="https://github.com/pawpaw2022/simplebank"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=simplebank" alt="simplebank" height="120">
-<a>
-</span>
-
-<span>
-<a href="https://github.com/pawpaw2022/gql-blogging-website-client"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website-client" alt="gql-blogging-website-client" height="120">
-<a>
-<a href="https://github.com/pawpaw2022/gql-blogging-website"  target="_blank">    
-    <img src="https://github-readme-stats-two-gray.vercel.app/api/pin/?username=pawpaw2022&repo=gql-blogging-website" alt="gql-blogging-website" height="120">
-<a>
-
-</span>
-
-<!-- ## Loved my work? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
-
-- [Give a star to this project](https://github.com/pawpaw2022/pawpaw2022)&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /><br/>
-- [Follow me on GitHub](https://github.com/pawpaw2022)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" /><br/>
-- [Checkout my portfolio](https://portfolio-wheat-ten-80.vercel.app/)&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /><br/>
-- [Buy me a coffee](https://www.buymeacoffee.com/pawpaw2022) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /> (Cheers~)
-
-<img src="https://wallpapers.com/images/hd/splatoon-2-octopia-splatfest-oxoauq7ielekerov.webp" alt="wallpaper"> -->
