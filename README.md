@@ -2,6 +2,10 @@
 
 # Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/>&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="40" /></span>&nbsp;
 
+<a href="mailto:slu2022@uchicago.edu" target="_blank">
+  <img src="https://img.shields.io/badge/email-slu2022@uchicago.edu-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="School Email Badge" height="25">
+</a>
+
 
 
 <!-- <span>
@@ -13,12 +17,9 @@
 <a>
 </span> -->
 
-<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
      alt="animated hello"
-     style="object-fit: cover; object-position: center; width: 100%; height: 200px; overflow: hidden; display: block;" /> -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" style="float: right;" />
-
-
+     style="object-fit: cover; object-position: center; width: 100%; height: 200px; overflow: hidden; display: block;" />
 
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
