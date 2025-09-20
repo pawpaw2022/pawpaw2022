@@ -1,6 +1,6 @@
 <!--  @format -->
 
-# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/>&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="100" /></span>&nbsp;
+# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/>&nbsp;<span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="40" /></span>&nbsp;
 
 
 
@@ -13,9 +13,12 @@
 <a>
 </span> -->
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
      alt="animated hello"
-     style="object-fit: cover; object-position: center; width: 100%; height: 200px; overflow: hidden; display: block;" />
+     style="object-fit: cover; object-position: center; width: 100%; height: 200px; overflow: hidden; display: block;" /> -->
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" />
+
 
 
 <div align="">
@@ -59,12 +62,6 @@
 
 ## GitHub Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" alt="Bar Chart" width="24" />
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%">
- -->
-
-<!-- <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
-</picture> -->
 
 <picture>
     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar Metrics">
@@ -72,13 +69,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawpaw2022&theme=synthwave" />
 
-<!-- <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pawpaw2022&theme=synthwave" /> -->
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawpaw2022&theme=synthwave&hide=jupyter%20notebook&layout=compact" />
-
-## Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Flexed Biceps" width="24" />
 
