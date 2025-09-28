@@ -1,6 +1,6 @@
 <!--  @format -->
 
-# Aloha, I'm <a href="https://www.pawpaw2022.com/" target="_blank">Sining Lu</a><span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="40" /></span>&nbsp;
+# Aloha, I'm <a href="https://slu2022.org/" target="_blank">Sining Lu</a><span><img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" height="40" /></span>&nbsp;
 
 <a href="mailto:slu2022@uchicago.edu" target="_blank">
   <img src="https://img.shields.io/badge/email-slu2022@uchicago.edu-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="School Email Badge" height="25">
